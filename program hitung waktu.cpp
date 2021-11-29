@@ -13,4 +13,5 @@ int main() {
     dtk=ak/1;
     dtk=ak%60;
     cout<<jm<<" jam "<<mnt<<" menit "<<dtk<<" detik "<<endl;
+    //memasukan angka yang sudah dihitung untuk ditampilkan
 }
